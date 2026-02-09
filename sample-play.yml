@@ -1,8 +1,0 @@
----
-- name: A Simple Hello World Example
-  hosts: localhost
-  gather_facts: no
-  tasks:
-    - name: Just Say Hello
-      debug:
-        msg: "Hello Mr. gateway this is from '{{ caller }}'"⏎
