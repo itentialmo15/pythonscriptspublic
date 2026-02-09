@@ -1,4 +1,3 @@
----
-collections:
-  - name: community.general
-  - name: ansible.posix
+# Base Python dependencies for Ansible
+jinja2>=3.0.0
+PyYAML>=5.4.0
