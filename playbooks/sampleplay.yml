@@ -5,4 +5,4 @@
   tasks:
     - name: Just Say Hello
       debug:
-        msg: "Hello Mr. gateway this is from '{{ caller }}'"⏎
+        msg: "Hello Mr. gateway this is from '{{ caller }}'"
