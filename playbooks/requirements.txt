@@ -1,3 +1,4 @@
 # Base Python dependencies for Ansible
-jinja2>=3.0.0
-PyYAML>=5.4.0
+---
+ jinja2>=3.0.0
+ PyYAML>=5.4.0
